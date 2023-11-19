@@ -117,4 +117,4 @@ Ejemplo de cómo usar los roles en las vistas:
 </div>
 ```
 
-¡Espero que esta estructura y corrección del código sea lo que necesitas para tu `readme.md`!
+¡Espero que esta estructura y corrección del código sea lo que necesitas!
